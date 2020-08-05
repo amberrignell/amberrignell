@@ -1,6 +1,6 @@
-### Hi, I'm Amber - a 22 year-old who has recently taken the leap into tech and programming 
+### Hi, I'm Amber - a 22 year-old who has recently taken the leap :horse_racing: into tech and programming 
 
-#### You may be wondering HOW ?? I plan on getting into tech
+#### You may be wondering ... HOW ?? 
 
 Programming is hard, but I've been given the great opportunity of completing  a free, four-month long bootcamp called Founders and Coders which is slowly but steadily setting me onto the path of full stack web development. 
 You can track my progress through the weekly projects we have to complete, all linked to my github account. 
@@ -22,7 +22,7 @@ Long answer ...
 #### What am I passionate about ? 
 
 
-#### What I'm looking for
+#### What I'm looking for :eyes:
 
 I'm looking for the opportunity to work as a full stack developer 
 - in a team of interesting individuals who will help me increase my technical knowledge
