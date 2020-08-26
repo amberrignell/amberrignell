@@ -19,9 +19,6 @@ Long answer ...
 - I became increasingly frustrated by my own technical limitations and inability to be involved with the LABS team and their projects 
 - I decided to do something about it and completed two [CodeFirst: Girls](https://codefirstgirls.org.uk/) courses before applying to [Founders and Coders](https://www.foundersandcoders.com/)
 
-#### What am I passionate about ? 
-
-
 #### What I'm looking for :eyes:
 
 I'm looking for the opportunity to work as a full stack developer 
