@@ -1,4 +1,4 @@
-### Hi, I'm Amber - a 22 year-old who has recently taken the leap into tech and programming 
+### Hi, I'm Amber - a 22 year-old graduate of Arts and Sciences who has recently taken the leap into tech and programming 
 
 #### You may be wondering ... HOW ?? 
 
@@ -25,7 +25,8 @@ I'm looking for the opportunity to work as a full stack developer
 - in a team of interesting individuals who will help me increase my technical knowledge
 - at a medium-sized company which is focussed on solving either a social problem or taking on a technical challenge 
 
-#### 
+
+Find me on [Linkedin](https://www.linkedin.com/in/amber-rignell-96a883113/)
 
 
 
